@@ -13,7 +13,7 @@ class Danmu():
         }
         # 定义POST传递的参数
         self.data = {
-            'roomid':'2794186',
+            'roomid':'b站房间id',
             'csrf_token':'',
             'csrf':'',
             'visit_id':'',
